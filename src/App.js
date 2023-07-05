@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> 이게 뭐야?!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
